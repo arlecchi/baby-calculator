@@ -1,2 +1,1 @@
-# baby-calculator
-day one of learning cpp
+simple-calculator
